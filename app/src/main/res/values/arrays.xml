@@ -1,0 +1,12 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="list_entries">
+        <item>Option one</item>
+        <item>Option two</item>
+    </string-array>
+
+    <string-array name="list_values">
+        <item>option_one</item>
+        <item>option_two</item>
+    </string-array>
+</resources>
